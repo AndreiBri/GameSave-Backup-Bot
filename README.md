@@ -136,4 +136,14 @@ When the bot detects a change, it will send a message like:
 ## 📜 License
 
 This project is open source and available under the MIT License.
+## 🚫 License and Commercial Use
+
+This project is licensed under the **Creative Commons BY-NC 4.0** license.
+
+You are free to share, modify, and use this project **for non-commercial purposes only**, provided you give proper credit.
+
+**Commercial use, redistribution, or selling is not allowed without my explicit permission.**  
+If you're interested in using this software commercially or including it in a paid product, please contact me to discuss terms or revenue sharing:
+
+📩 [https://github.com/AndreiBri](https://github.com/AndreiBri)
 # Auto-Save-Discord
