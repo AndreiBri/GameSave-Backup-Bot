@@ -133,6 +133,10 @@ When the bot detects a change, it will send a message like:
 
 ---
 
+🙋 Want to help? See CONTRIBUTING.md for guidelines.
+
+---
+
 ## 🚫 License and Commercial Use
 
 This project is licensed under the **Creative Commons BY-NC 4.0** license.
